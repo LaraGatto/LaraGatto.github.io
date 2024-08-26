@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Texto sobro mim
+Em contrução ....
+
+
+
 
 Proffesional Work
 ======
