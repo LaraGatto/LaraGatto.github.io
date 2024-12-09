@@ -11,17 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D student in Asronomy, Universidade Federal do Rio Grande do Sul (UFRGS), Brazil, 2025 (expected)
+* Ph.D student in Astronomy, Universidade Federal do Rio Grande do Sul (UFRGS), Brazil, 2025 (expected)
 * M.S. in Physics, Universidade Federal do Rio Grande (FURG), Brazil, 2020
 * B.S. in Physics, Universidade Federal do Rio Grande (FURG), Brazil, 2018
 
   
 Skills
 ======
-* Comunication
 * Programming and software
   * Python
+  * Starlight
+  * Mesa
   * Iraf
+* Comunication
 * Handmade crochet and tricot
 
 Publications
