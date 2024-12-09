@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Em contrução ....
+Em contru ....
 
 
 
