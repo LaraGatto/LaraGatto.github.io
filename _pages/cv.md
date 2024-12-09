@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D student in Asronomy, Universidade Federal do Rio Grande do Sul (UFRGS), Brazil, 2025 (expected)
+* M.S. in Physics, Universidade Federal do Rio Grande (FURG), Brazil, 2020
+* B.S. in Physics, Universidade Federal do Rio Grande (FURG), Brazil, 2018
 
 Work experience
 ======
